@@ -1,0 +1,32 @@
+* body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color:white;
+}
+
+.inicio{
+    text-align: center;
+}
+
+.introducao h2{
+    text-align: center;
+}
+
+.carro1 img{
+    width: 900px;
+}
+.carro2 img{
+    width: 900px;
+}
+
+.carro3 img{
+    width: 900px;
+}
+
+.carro4 img{
+    width: 900px;
+}
+
+.carro5 img{
+    width: 900px;
+}
